@@ -1,2 +1,2 @@
 # Game Library
- This is a group project for our Software Development class
+ This is our Semester Project for Software Development class
